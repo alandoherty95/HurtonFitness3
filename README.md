@@ -106,3 +106,10 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+Terminal Commands
+
+git status
+git add .
+git push
+git commit -m <message>

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+ * {
+     margin: 0;
+     padding: 0;
+     border: 0;
+}
+ hr {
+     height: 0.1px;
+     background-color: #062625;
+     border: none;
+}
+ header {
+     width: 100%;
+}
+ .nav-pills .nav-link {
+     color: #000000;
+     margin: 1px;
+}
+ .nav-pills .nav-link.active {
+     background-color: #FCC707;
+     color: #ffffff;
+}
+ .outline {
+     font-family: 'Roboto Slab', serif;
+     color: #062625;
+}
+ .card-header {
+     background-color: #062625;
+     color: #ffffff;
+     text-transform: uppercase;
+     font-weight: bold;
+}
+ .btn {
+     margin: 0.5em;
+     border-radius: 30px;
+}
+ .btn-dark:hover {
+     background-color: #ffffff;
+     color: #212121;
+}
+ .quote-text {
+     font-family: 'Roboto Slab', serif;
+}
+ .accordion-button:not(.collapsed) {
+     color: #ffffff;
+     background-color: #FCC707;
+}
+ .accordion-button.collapsed {
+     color: #ffffff;
+     background-color: #808080;
+}
+ ul {
+     line-height: 3;
+}

@@ -18,7 +18,8 @@
 }
  .nav-pills .nav-link.active {
      background-color: #FCC707;
-     color: #ffffff;
+     color: #000000;
+     font-weight: bold;
 }
  .outline {
      font-family: 'Roboto Flex', serif;

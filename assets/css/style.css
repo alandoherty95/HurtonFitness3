@@ -21,7 +21,7 @@
      color: #ffffff;
 }
  .outline {
-     font-family: 'Roboto Slab', serif;
+     font-family: 'Roboto Flex', serif;
      color: #062625;
 }
  .card-header {
@@ -39,7 +39,7 @@
      color: #212121;
 }
  .quote-text {
-     font-family: 'Roboto Slab', serif;
+     font-family: 'Roboto Flex', serif;
 }
  .accordion-button:not(.collapsed) {
      color: #ffffff;
